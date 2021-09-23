@@ -33,8 +33,50 @@ Facultys Registration
 
 ![Screenshot (181)](https://user-images.githubusercontent.com/90125484/134485544-3013859a-bec3-45c2-a053-dde8446b9015.png)
 
+Common Sign Up Page for (Admin, Employee and Faculty)
+
+![Screenshot (182)](https://user-images.githubusercontent.com/90125484/134493040-8e845ee0-ef79-4da2-97e4-9224069194a4.png)
+
+
 Admin has right to reject and Aprrove employee and Faculty based on data entered, he can add new modules in system, 
 he can map a particular module to an Faculty and can create batch for employees
+
+Admins Dashboard on Login successfully
+
+![Screenshot (183)](https://user-images.githubusercontent.com/90125484/134493153-f6ac6140-273c-41f5-93bc-8b29de2f0556.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/90125484/134493185-87d4bf7d-88a0-4adc-8c39-147ead2fbbd3.png)
+
+![Screenshot (187)](https://user-images.githubusercontent.com/90125484/134493537-852b8752-6418-48fc-b7e6-d0419c74215b.png)
+
+Admin can add new Module to system
+
+![Screenshot (185)](https://user-images.githubusercontent.com/90125484/134493276-7ffa0c7b-0f19-4036-bc8e-104f8e551232.png)
+
+Admin can add new Batch for respective Module
+
+![Screenshot (188)](https://user-images.githubusercontent.com/90125484/134493462-692bc31f-664c-40b5-ae2c-abf996a8fefd.png)
+
+Facultys Dashboard
+Faculty can approve or reject Module assigned for Admin.
+
+![Screenshot (190)](https://user-images.githubusercontent.com/90125484/134493717-ae678dcd-a172-4346-9224-e21e6cf8cc41.png)
+
+Employee's Dashboard
+Employee can see all Modules added
+Employee can register in a Batch until it is full.
+
+![Screenshot (191)](https://user-images.githubusercontent.com/90125484/134493881-c9e6cbce-2384-4b6f-9827-fa9c1b0d7d0c.png)
+
+![Screenshot (192)](https://user-images.githubusercontent.com/90125484/134493925-ba8f6b9c-71e9-4420-b2d9-a687c85ce63a.png)
+
+Database Used is Mysql
+Database Name - ap
+
+![Screenshot (193)](https://user-images.githubusercontent.com/90125484/134494046-7a6ee7e8-ad54-410e-a65b-56cbc03933b2.png)
+
+
+
 
 It is maven project and has some dependencies
 
