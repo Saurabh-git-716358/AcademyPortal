@@ -55,10 +55,12 @@ Admin can add new Module to system
 
 Admin can add new Batch for respective Module
 
-![Screenshot (188)](https://user-images.githubusercontent.com/90125484/134493462-692bc31f-664c-40b5-ae2c-abf996a8fefd.png)
+![Screenshot (195)](https://user-images.githubusercontent.com/90125484/134495074-3384f54b-8f75-41a5-a04e-240f16bf6e0a.png)
 
 Facultys Dashboard
 Faculty can approve or reject Module assigned for Admin.
+
+![Screenshot (194)](https://user-images.githubusercontent.com/90125484/134495115-e5280037-9b66-4006-bb4a-033c8b6969a2.png)
 
 ![Screenshot (190)](https://user-images.githubusercontent.com/90125484/134493717-ae678dcd-a172-4346-9224-e21e6cf8cc41.png)
 
