@@ -3,6 +3,10 @@ Contains code for Academy Portal project based on Spring MVC and Hibernate
 
 
 Academy Portal is a web application created using Java, Spring MVC, JSP Pages, Hibernate and MYSQL.
+
+Home Page
+![Screenshot (177)](https://user-images.githubusercontent.com/90125484/134484299-6712cee1-1517-45c1-8ccc-e5ec555bb0c0.png)
+
 Web Application comprises of Entities that are 
 
 1.) Employee
